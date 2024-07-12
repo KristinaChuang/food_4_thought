@@ -1,0 +1,649 @@
+food_name,scientific_name
+Angelica,Angelica keiskei
+Savoy_cabbage,Brassica oleracea var. sabauda
+Silver_linden,Tilia argentea
+Kiwi,Actinidia chinensis
+Allium_onion,Allium
+Garden_onion,Allium cepa
+Leek,Allium porrum
+Garlic,Allium sativum
+Chives,Allium schoenoprasum
+Lemon_verbena,Aloysia triphylla
+Cashew_nut,Anacardium occidentale
+Pineapple,Ananas comosus
+Dill,Anethum graveolens
+Custard_apple,Annona reticulata
+Wild_celery,Apium graveolens
+Peanut,Arachis hypogaea
+Burdock,Arctium lappa
+Horseradish,Armoracia rusticana
+Tarragon,Artemisia dracunculus
+Mugwort,Artemisia vulgaris
+Asparagus,Asparagus officinalis
+Oat,Avena sativa
+Star_fruit,Averrhoa carambola
+Brazil_nut,Bertholletia excelsa
+Common_beet,Beta vulgaris
+Borage,Borago officinalis
+Chinese_mustard,Brassica juncea
+Swede,Brassica napus
+Rape,Brassica napus var. napus
+Common_cabbage,Brassica oleracea
+Cauliflower,Brassica oleracea var. botrytis
+Brussel_sprouts,Brassica oleracea var. gemmifera
+Kohlrabi,Brassica oleracea var. gongylodes
+Broccoli,Brassica oleracea var. italica
+Chinese_cabbage,Brassica rapa
+Turnip,Brassica rapa var. rapa
+Pigeon_pea,Cajanus cajan
+Tea,Camellia sinensis
+Capers,Capparis spinosa
+Pepper_c,Capsicum annuum
+Papaya,Carica papaya
+Safflower,Carthamus tinctorius
+Caraway,Carum carvi
+Pecan_nut,Carya illinoinensis
+Chestnut,Castanea
+Roman_camomile,Chamaemelum nobile
+Chickpea,Cicer arietinum
+Endive,Cichorium endivia
+Chicory,Cichorium intybus
+Chinese_cinnamon,Cinnamomum aromaticum
+Ceylon_cinnamon,Cinnamomum verum
+Watermelon,Citrullus lanatus
+Lime,Citrus aurantiifolia
+Lemon,Citrus limon
+Pummelo,Citrus maxima
+Mandarin_orange,Citrus reticulata
+Sweet_orange,Citrus sinensis
+Coffee,Coffea
+Arabica_coffee,Coffea arabica
+Robusta_coffee,Coffea canephora
+Coriander,Coriandrum sativum
+Common_hazelnut,Corylus avellana
+Saffron,Crocus sativus
+Muskmelon,Cucumis melo
+Cucumber,Cucumis sativus
+Cucurbita_gourd,Cucurbita
+Cumin,Cuminum cyminum
+Turmeric,Curcuma longa
+Quince,Cydonia oblonga
+Lemon_grass,Cymbopogon citratus
+Globe_artichoke,Cynara scolymus
+Wild_carrot,Daucus carota
+Japanese_persimmon,Diospyros kaki
+Cardamom,Elettaria cardamomum
+Black_crowberry,Empetrum nigrum
+Loquat,Eriobotrya japonica
+Rocket_salad,Eruca vesicaria ssp. sativa
+Wax_apple,Eugenia
+Common_buckwheat,Fagopyrum esculentum
+Tartary_buckwheat,Fagopyrum tataricum
+Fig,Ficus carica
+Fennel,Foeniculum vulgare
+Strawberry,Fragaria X ananassa
+Black_huckleberry,Gaylussacia baccata
+Soy_bean,Glycine max
+Sunflower,Helianthus annuus
+Sea-buckthornberry,Hippophae rhamnoides
+Barley,Hordeum vulgare
+Hyssop,Hyssopus officinalis
+Star_anise,Illicium verum
+Swamp_cabbage,Ipomoea aquatica
+Sweet_potato,Ipomoea batatas
+Black_walnut,Juglans nigra
+Common_walnut,Juglans regia
+Lettuce,Lactuca sativa
+Grass_pea,Lathyrus sativus
+Sweet_bay,Laurus nobilis
+Lentils,Lens culinaris
+Garden_cress,Lepidium sativum
+Lovage,Levisticum officinale
+Flaxseed,Linum usitatissimum
+Mexican_oregano,Lippia graveolens
+Lichee,Litchi chinensis
+Lupine,Lupinus
+Apple,Malus pumila
+Mango,Mangifera indica
+German_camomile,Matricaria recutita
+Lemon_balm,Melissa officinalis
+Mentha_mint,Mentha
+Orange_mint,Mentha aquatica
+Cornmint,Mentha arvensis
+Spearmint,Mentha spicata
+Peppermint,Mentha X piperita
+Medlar,Mespilus germanica
+Bitter_gourd,Momordica charantia
+Mulberry,Morus
+Black_mulberry,Morus nigra
+Nutmeg,Myristica fragrans
+Sweet_basil,Ocimum basilicum
+Evening_primrose,Oenothera biennis
+Olive,Olea europaea
+Sweet_marjoram,Origanum majorana
+Pot_marjoram,Origanum onites
+Common_oregano,Origanum vulgare
+Rice,Oryza sativa
+Millet,Panicum miliaceum
+Poppy,Papaver
+Passion_fruit,Passiflora edulis
+Parsnip,Pastinaca sativa
+Avocado,Persea americana
+Parsley,Petroselinum crispum
+Scarlet_bean,Phaseolus coccineus
+Lima_bean,Phaseolus lunatus
+Common_bean,Phaseolus vulgaris
+Date,Phoenix dactylifera
+Black_chokeberry,Photinia melanocarpa
+Anise,Pimpinella anisum
+Pine_nut,Pinus
+Pepper_spice,Piper nigrum
+Pistachio,Pistacia vera
+Common_pea,Pisum sativum
+Purslane,Portulaca oleracea
+Prunus_cherry,Prunus
+Apricot,Prunus armeniaca
+Sweet_cherry,Prunus avium
+Sour_cherry,Prunus cerasus
+European_plum,Prunus domestica
+Almond,Prunus dulcis
+Peach,Prunus persica
+Guava,Psidium guajava
+Pomegranate,Punica granatum
+Pear,Pyrus communis
+Radish,Raphanus sativus
+Garden_rhubarb,Rheum rhabarbarum
+Blackcurrant,Ribes nigrum
+Redcurrant,Ribes rubrum
+Gooseberry,Ribes uva-crispa
+Watercress,Rorippa nasturtium-aquaticum
+Rosemary,Rosmarinus officinalis
+Rubus_blackberry,Rubus
+Cloudberry,Rubus chamaemorus
+Red_raspberry,Rubus idaeus
+Black_raspberry,Rubus occidentalis
+Sorrel,Rumex acetosa
+Common_sage,Salvia officinalis
+Black_elderberry,Sambucus nigra
+Summer_savory,Satureja hortensis
+Winter_savory,Satureja montana
+Rye,Secale cereale
+Sesame,Sesamum orientale
+Garden_tomato,Solanum lycopersicum
+Cherry_tomato,Solanum lycopersicum var. cerasiforme
+Garden_tomato,Solanum lycopersicum var. lycopersicum
+Eggplant,Solanum melongena
+Potato,Solanum tuberosum
+Rowanberry,Sorbus aucuparia
+Sorghum,Sorghum bicolor
+Spinach,Spinacia oleracea
+Cloves,Syzygium aromaticum
+Tamarind,Tamarindus indica
+Dandelion,Taraxacum officinale
+Cocoa_bean,Theobroma cacao
+Common_thyme,Thymus vulgaris
+Linden,Tilia
+Small-leaf_linden,Tilia cordata
+Fenugreek,Trigonella foenum-graecum
+Common_wheat,Triticum aestivum
+Vaccinium_blueberry,Vaccinium
+Lowbush_blueberry,Vaccinium angustifolium
+Sparkleberry,Vaccinium arboreum
+Highbush_blueberry,Vaccinium corymbosum
+American_cranberry,Vaccinium macrocarpon
+Bilberry,Vaccinium myrtillus
+Lingonberry,Vaccinium vitis-idaea
+Vanilla,Vanilla
+Common_verbena,Verbena officinalis
+Broad_bean,Vicia faba
+Adzuki_bean,Vigna angularis
+Gram_bean,Vigna mungo
+Mung_bean,Vigna radiata
+Climbing_bean,Vigna umbellata
+Cowpea,Vigna unguiculata
+Muscadine_grape,Vitis rotundifolia
+Common_grape,Vitis vinifera
+Corn,Zea mays
+Ginger,Zingiber officinale
+Arctic_blackberry,Rubus arcticus
+Banana,Musa acuminata
+Bayberry,Myrica
+Elliott's_blueberry,Vaccinium elliottii
+Canada_blueberry,Vaccinium myrtilloides
+Bog_bilberry,Vaccinium uliginosum
+Buffalo_currant,Ribes aureum var. villosum
+Celeriac,Apium graveolens var. rapaceum
+Celery_stalks,Apium graveolens var. dulce
+Chinese_chives,Allium tuberosum
+European_cranberry,Vaccinium oxycoccos
+Deerberry,Vaccinium stamineum
+Ginseng,Panax
+Cascade_huckleberry,Vaccinium deliciosum
+Oval-leaf_huckleberry,Vaccinium ovalifolium
+Evergreen_huckleberry,Vaccinium ovatum
+Red_huckleberry,Vaccinium parvifolium
+Longan,Dimocarpus longan
+Macadamia_nut,Macadamia tetraphylla
+Garden_onion,Allium cepa var. cepa
+Summer_grape,Vitis aestivalis
+Fox_grape,Vitis labrusca
+Nectarine,Prunus persica var. nucipersica
+Peach_var,Prunus persica var. persica
+Pepper_c,Capsicum baccatum var. baccatum
+Pepper_c,Capsicum chinense
+Pepper_capsicum,Capsicum
+Rambutan,Nephelium lappaceum
+Red_rice,Oryza rufipogon
+Annual_wild,Zizania aquatica
+Swiss_chard,Beta vulgaris ssp. cicla
+Lemon_thyme,Thymus pulegioides
+Tronchuda_cabbage,Brassica oleracea var. costata
+Japanese_walnut,Juglans ailanthifolia
+Welsh_onion,Allium fistulosum
+Hard_wheat,Triticum durum
+Shallot,Allium ascalonicum
+Rocket_salad,Eruca vesicaria
+Carrot,Daucus carota ssp. sativus
+Triticale,X Triticosecale rimpaui
+Black_cabbage,Brassica oleracea var. viridis
+Half-highbush_blueberry,Vaccinium angustifolium X Vaccinium corymbosum
+Celery_leaves,Apium graveolens var. secalinum
+Chicory_leaves,Cichorium intybus var. foliosum
+Komatsuna,Brassica rapa var. perviridis
+Pak_choy,Brassica rapa var. chinensis
+Napa_cabbage,Brassica rapa var. pekinensis
+Chicory_roots,Cichorium intybus var. sativum
+Grapefruit/pummelo_hybrid,Citrus paradisi X Citrus maxima
+Grapefruit,Citrus X paradisi
+Jostaberry,Ribes Ã nidigrolaria
+Kai-lan,Brassica oleracea var. alboglabra
+Italian_oregano,Origanum X majoricum
+Oxheart_cabbage,Brassica oleracea var. conica
+Daikon_radish,Raphanus sativus var. longipinnatus
+Black_radish,Raphanus sativus var. niger
+Radish_var,Raphanus sativus var. sativus
+Red_beetroot,Beta vulgaris var. rubra
+Sweet_rowanberry,Grataegosorbus mitschurinii
+Pineappple_sage,Salvia elegans
+Skunk_currant,Ribes glandulosum
+Abalone,Haliotis
+Abiyuch,Crateva religiosa
+Acerola,Malpighia emarginata
+Acorn,Quercus
+Winter_squash,Cucurbita maxima
+Agar,Eucheuma
+Red_king,Paralithodes camtschaticus
+Alfalfa,Medicago sativa
+Allspice,Pimenta dioica
+Amaranth,Amaranthus
+Arrowhead,Sagittaria latifolia
+Arrowroot,Maranta arundinacea
+Asian_pear,Pyrus pyrifolia
+Atlantic_herring,Clupea harengus harengus
+Atlantic_mackerel,Scomber scombrus
+Painted_comber,Serranus scriba
+Atlantic_pollock,Pollachius pollachius
+Atlantic_wolffish,Anarhichas lupus
+Bamboo_shoots,Phyllostachys edulis
+Striped_bass,Morone saxatilis
+Beaver,Castor canadensis
+Beech_nut,Fagus
+Beluga_whale,Delphinapterus leucas
+Bison,Bison bison
+Black_bear,Ursus americanus
+Alaska_blackfish,Dallia pectoralis
+Blue_crab,Callinectes sapidus
+Blue_mussel,Mytilus edulis
+Northern_bluefin,Thunnus thynnus
+Bluefish,Pomatomus saltatrix
+Wild_boar,Sus scrofa
+Bowhead_whale,Balaena mysticetus
+Breadfruit,Artocarpus altilis
+Breadnut_tree,Brosimum alicastrum
+Rapini,Brassica ruvo
+Brown_bear,Ursus arctos
+Buffalo,Bubalus bubalis
+Burbot,Lota lota
+Giant_butterbur,Petasites japonicus
+American_butterfish,Peprilus triacanthus
+Butternut,Juglans cinerea
+Butternut_squash,Cucurbita moschata
+Calabash,Lagenaria siceraria
+Cardoon,Cynara cardunculus
+Caribou,Rangifer tarandus
+Natal_plum,Carissa macrocarpa
+Carob,Ceratonia siliqua
+Common_carp,Cyprinus carpio
+Cassava,Manihot esculenta
+Channel_catfish,Ictalurus punctatus
+Chayote,Sechium edule
+Cherimoya,Annona cherimola
+Chervil,Anthriscus cerefolium
+Chia,Salvia hispanica
+Chicken_cock,Gallus gallus
+Chinese_broccoli,Brassica alboglabra
+Chinese_chestnut,Castanea mollissima
+Chinese_water,Eleocharis dulcis
+Garland_chrysanthemum,Chrysanthemum coronarium
+Cisco,Coregonus artedi
+Nuttall_cockle,Clinocardium nuttallii
+Coconut,Cocos nucifera
+Pacific_cod,Gadus macrocephalus
+Atlantic_cod,Gadus morhua
+Common_octopus,Octopus vulgaris
+Corn_salad,Valerianella locusta
+Cottonseed,Gossypium
+Catjang_pea,Vigna unguiculata ssp. cylindrica
+Malus_crab,Malus
+Squashberry,Viburnum edule
+Atlantic_croaker,Micropogonias undulatus
+Cusk,Brosme brosme
+Cuttlefish,Sepiidae
+Mule_deer,Odocoileus
+Devilfish,Myoxocephalus
+Dock,Rumex
+Dolphin_fish,Coryphaena hippurus
+Freshwater_drum,Aplodinotus grunniens
+Mallard_duck,Anas platyrhynchos
+Dungeness_crab,Cancer magister
+Durian,Durio zibethinus
+Eastern_oyster,Crassostrea virginica
+Freshwater_eel,Anguilla
+Elderberry,Sambucus
+Elk,Cervus canadensis
+Emu,Dromaius novaehollandiae
+Oregon_yampah,Perideridia oregana
+European_anchovy,Engraulis encrasicolus
+European_chestnut,Castanea sativa
+Turbot,Scophthalmus maximus
+Fireweed,Chamerion angustifolium
+Florida_pompano,Trachinotus carolinus
+Ginkgo_nuts,Ginkgo biloba
+Greylag_goose,Anser anser
+Grape,Vitis
+Greenland_halibut/turbot,Reinhardtius hippoglossoides
+Groundcherry,Physalis
+Grouper,Epinephelus
+Guinea_hen,Numida meleagris
+Haddock,Melanogrammus aeglefinus
+Hippoglossus_common,Hippoglossus
+Hazelnut,Corylus
+Hickory_nut,Carya
+Horse,Equus caballus
+Horseradish_tree,Moringa oleifera
+Alaska_blueberry,Vaccinium alaskaense
+Hyacinth_bean,Lablab purpureus
+Irish_moss,Chondrus crispus
+Pacific_jack,Trachurus symmetricus
+Jackfruit,Artocarpus heterophyllus
+Japanese_chestnut,Castanea crenata
+Java_plum,Syzygium cumini
+Jerusalem_artichoke,Helianthus tuberosus
+Jujube,Ziziphus zizyphus
+Jute,Corchorus olitorius
+Kale,Brassica napus var. pabularia
+Kelp,Laminaria
+King_mackerel,Scomberomorus cavalla
+Kumquat,Fortunella
+Lambsquarters,Chenopodium album
+Leather_chiton,Katharina tunicata
+Wild_leek,Allium ampeloprasum
+Common_ling,Molva molva
+Lingcod,Ophiodon elongatus
+American_lobster,Homarus americanus
+Loganberry,Rubus loganobaccus
+Lotus,Nelumbo
+Sacred_lotus,Nelumbo nucifera
+White_lupine,Lupinus albus
+Malabar_spinach,Basella alba
+Mammee_apple,Mammea americana
+Purple_mangosteen,Garcinia mangostana
+Alpine_sweetvetch,Hedysarum alpinum
+Milkfish,Chanos chanos
+Monkfish,Lophius piscatorius
+Moose,Alces alces
+Moth_bean,Vigna aconitifolia
+Mountain_yam,Dioscorea pentaphylla
+Striped_mullet,Mugil cephalus
+Muskrat,Ondatra zibethicus
+White_mustard,Sinapis alba
+Mustard_spinach,Brassica perviridis
+New_zealand,Tetragonia tetragonioides
+Nopal,Opuntia cochenillifera
+Ocean_pout,Zoarces americanus
+North_pacific,Enteroctopus dofleini
+Ohelo_berry,Vaccinium reticulatum
+Okra,Abelmoschus esculentus
+Tunicate,Tunicata
+Opossum,Didelphis virginiana
+Ostrich,Struthio camelus
+Spotted_seal,Phoca largha
+Pacific_herring,Clupea pallasii
+Pacific_oyster,Crassostrea gigas
+Pacific_rockfish,Sebastes
+Velvet_duck,Melanitta fusca
+Pepper_c,Capsicum annuum var. annuum
+Common_persimmon,Diospyros virginiana
+Pheasant,Phasianus colchicus
+Northern_pike,Esox lucius
+Pili_nut,Canarium ovatum
+Colorado_pinyon,Pinus edulis
+Pitanga,Eugenia uniflora
+Plains_prickly,Opuntia macrorhiza
+French_plantain,Musa X paradisiaca
+American_pokeweed,Phytolacca americana
+Polar_bear,Ursus maritimus
+Opium_poppy,Papaver somniferum
+Prairie_turnip,Pediomelum esculentum
+Prickly_pear,Opuntia
+Quinoa,Chenopodium quinoa
+European_rabbit,Oryctolagus
+Raccoon,Procyon lotor
+Rainbow_smelt,Osmerus mordax
+Rainbow_trout,Oncorhynchus mykiss
+Malabar_plum,Syzygium jambos
+Rose_hip,Rosa
+Roselle,Hibiscus sabdariffa
+Orange_roughy,Hoplostethus atlanticus
+Sablefish,Anoplopoma fimbria
+Pink_salmon,Oncorhynchus gorbuscha
+Chum_salmon,Oncorhynchus keta
+Coho_salmon,Oncorhynchus kisutch
+Sockeye_salmon,Oncorhynchus nerka
+Chinook_salmon,Oncorhynchus tshawytscha
+Atlantic_salmon,Salmo salar
+Salmonberry,Rubus spectabilis
+Common_salsify,Tragopogon porrifolius
+Sapodilla,Manilkara zapota
+Mamey_sapote,Pouteria sapota
+Spanish_mackerel,Scomberomorus maculatus
+Pacific_sardine,Sardinops sagax
+Scallop,Pectinidae
+Scup,Stenotomus chrysops
+Sea_cucumber,Parastichopus californicus
+Steller_sea,Eumetopias jubatus
+Bearded_seal,Erignathus barbatus
+Ringed_seal,Pusa hispida
+Seatrout,Cynoscion
+Sesbania_flower,Sesbania bispinosa
+American_shad,Alosa sapidissima
+Shark,Squaliformes
+Sheefish,Stenodus leucichthys
+Sheep_mutton,Ovis aries
+Sheepshead,Archosargus probatocephalus
+Hedge_mustard,Sisymbrium
+Skipjack_tuna,Katsuwonus pelamis
+Snapper,Lutjanidae
+Soursop,Annona muricata
+Spelt,Triticum spelta
+Spirulina,Spirulina
+Squab,Columba
+Squirrel,Sciuridae
+Strawberry_guava,Psidium cattleianum
+Greater_sturgeon,Acipenser
+White_sucker,Catostomus commersonii
+Sugar_apple,Annona squamosa
+Pumpkinseed_sunfish,Lepomis gibbosus
+Swordfish,Xiphias gladius
+Taro,Colocasia esculenta
+Teff,Eragrostis tef
+Tilefish,Lopholatilus chamaeleonticeps
+Mexican_groundcherry,Physalis philadelphica var. immaculata
+Towel_gourd,Luffa aegyptiaca
+Salmonidae_salmon,Salmonidae
+Turkey,Meleagris gallopavo
+Cattle_beef,Bos taurus
+Walleye,Sander vitreus
+Alaska_pollock,Theragra chalcogramma
+Wasabi,Wasabia japonica
+Wax_gourd,Benincasa hispida
+Whelk,Buccinidae
+Coalfish_pollock,Pollachius virens
+Broad_whitefish,Coregonus nasus
+Whitefish,Coregonus
+Whiting,Merlangius merlangus
+Wild_rice,Zizania
+Tea_leaf,Salix pulchra
+Winged_bean,Psophocarpus tetragonolobus
+Yam,Dioscorea
+Jicama,Pachyrhizus erosus
+Yautia,Xanthosoma sagittifolium
+Yellowfin_tuna,Thunnus albacares
+Yellowtail_amberjack,Seriola lalandi
+Pollock,Pollachius
+Albacore_tuna,Thunnus alalunga
+Gadus_common,Gadus
+Atlantic_halibut,Hippoglossus hippoglossus
+Pacific_halibut,Hippoglossus stenolepis
+Pacific_salmon,Oncorhynchus
+Smelt,Osmeridae
+Clupeinae_herring,Clupeinae
+Spiny_lobster,Palinuridae
+Snow_crab,Chionoecetes opilio
+Black-eyed_pea,Vigna unguiculata ssp. unguiculata
+Deer,Cervidae
+Macadamia_nut,Macadamia
+Percoidei_bass,Percoidei
+Perciformes_perch-like,Perciformes
+Arctic_ground,Urocitellus parryii
+Rabbit,Leporidae
+Domestic_goat,Capra aegagrus hircus
+Beefalo,Bos taurus X Bison bison
+Antelope,Artiodactyla
+Bivalvia_clam,Bivalvia
+Squid,Teuthida
+Shrimp,Caridea
+Crayfish,Astacidea
+Flatfish,Pleuronectiformes
+Domestic_pig,Sus scrofa domestica
+Walrus,Odobenus rosmarus
+Alaska_wild,Polygonum alpinum
+Oriental_wheat,Triticum turanicum
+Yardlong_bean,Vigna unguiculata ssp. sesquipedalis
+Great_horned,Bubo virginianus
+Quail,Phasianidae
+Boysenberry,Rubus ursinus X idaeus
+Persian_lime,Citrus latifolia
+Feijoa,Feijoa sellowiana
+Rowal,Pangium edule
+Jew's_ear,Auricularia auricula-judae
+Common_mushroom,Agaricus bisporus
+Shiitake,Lentinus edodes
+Purple_laver,Porphyra laciniata
+Wakame,Undaria pinnatifida
+Enokitake,Flammulina velutipes
+Epazote,Dysphania ambrosioides
+Oyster_mushroom,Pleurotus ostreatus
+Cloud_ear,Auricularia polytricha
+Maitake,Grifola frondosa
+Ostrich_fern,Matteuccia struthiopteris
+Spot_croaker,Leiostomus xanthurus
+Sourdock,Rumex articus
+Tinda,Citrullus lanatus var. fistulosus
+Atlantic_menhaden,Brevoortia tyrannus
+Wheat,Triticum
+Common_chokecherry,Prunus virginiana
+Agave,Agave
+Narrowleaf_cattail,Typha angustifolia
+Jellyfish,Scyphozoa
+Anchovy,Engraulidae
+Blue_whiting,Micromesistius poutassou
+Carp_bream,Abramis brama
+Chanterelle,Cantharellus cibarius
+Sturgeon,Acipenseridae
+Charr,Salvelinus
+Cinnamon,Cinnamomum
+Crab,Brachyura
+Common_dab,Limanda limanda
+Spiny_dogfish,Squalus acanthias
+Anatidae_duck,Anatidae
+Anguilliformes_eel,Anguilliformes
+True_frog,Ranidae
+Garfish,Belone belone
+Gadiformes_cod,Gadiformes
+Mountain_hare,Lepus timidus
+Lake_trout,Salvelinus namaycush
+Lemon_sole,Microstomus kitt
+Clawed_lobster,Nephropidae
+Lumpsucker,Cyclopteridae
+Scombridae_bonito,Scombridae
+Marine_mussel,Mytilidae
+Norway_haddock,Sebastes viviparus
+Norway_lobster,Nephrops norvegicus
+Norway_pout,Trisopterus esmarkii
+Oil_palm,Elaeis
+True_oyster,Ostreidae
+Sago_palm,Metroxylon sagu
+Persimmon,Diospyros
+Pikeperch,Sander lucioperca
+Pleuronectidae_dab,Pleuronectidae
+Rock_ptarmigan,Lagopus muta
+Pacific_ocean,Sebastes alutus
+Black_salsify,Scorzonera hispanica
+True_seal,Phocidae
+Red_algae,Rhodophyta
+Kombu,Saccharina japonica
+Snail,Gastropoda
+True_sole,Soleidae
+Catfish,Siluriformes
+Thistle,Cirsium
+Thunnus_common,Thunnus
+Walnut,Juglans
+Cetacea_dolphin,Cetacea
+Columbidae_dove,Columbidae
+Conch,Strombidae
+Cichlidae_tilapia,Cichlidae
+Green_turtle,Chelonia mydas
+Hibiscus_tea,Hibiscus sabbariffa
+Morchella_morel,Morchellaceae
+Horned_melon,Cucumis metuliferus
+Babassu_palm,Attalea speciosa
+Cupuaã§u,Theobroma grandiflorum
+Shea_tree,Vitellaria paradoxa
+Oil-seed_camellia,Camellia oleifera
+Ucuhuba,Virola surinamensis
+Nance,Byrsonima crassifolia
+Naranjilla,Solanum quitoense
+Tree_fern,Cyathea
+Greenthread_tea,Thelesperma
+Ascidians,Ascidiacea
+Yellow_pond-lily,Nuphar lutea
+Pepper_c,Capsicum pubescens
+Soft-necked_garlic,Allium sativum L. var. sativum
+Cabbage,Brassica oleracea var. capitata
+Chinese_bayberry,Myrica rubra
+Sunburst_squash,Cucurbita pepo var. clypeata
+Green_zucchini,Cucurbita pepo var. cylindrica
+Yellow_zucchini,Cucurbita pepo var. cylindrica
+Green_bell,Capsicum annuum
+Yellow_bell,Capsicum annuum
+Orange_bell,Capsicum annuum
+Red_bell,Capsicum annuum
+Italian_sweet,Capsicum annuum
+Yellow_wax,Phaseolus vulgaris
+Green_bean,Phaseolus vulgaris
+Saskatoon_berry,Amelanchier alnifolia
+Nanking_cherry,Prunus tomentosa
+Japanese_pumpkin,Cucurbita maxima
+White_cabbage,Brassica oleracea L. var. capitata L. f. alba DC.
+Romaine_lettuce,Lactuca sativa L. var. longifolia
