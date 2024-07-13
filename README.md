@@ -5,6 +5,26 @@
 original date: June 2021 <br>
 current date: July 2024
 
+### Usage
+- Clone the repository:
+
+```
+git clone https://github.com/KristinaChuang/food_4_thought.git 
+cd food_4_thought 
+```
+ 
+- Set up a virtual environment:
+
+```
+virtualenv venv 
+source venv/bin/activate
+ ```
+
+- Install the dependencies from requirements.txt:
+
+```
+pip install -r requirements.txt
+```
 ## Project Technical Description: <u>Integrating Relational Database Tables with RDF Data Sources.</u>
 
 ## Technologies: 
@@ -30,55 +50,22 @@ The aim of this project is to:
 2. The project will output a new CSV report with nutritional values derived from DBpedia and 
 3. match recipes from DBpedia with our nutritional table.
 
-????Steps:
+#### Steps:
  
-Data Integration:
+- Data Integration:
 
 Combine a CSV table containing common vegetables and their scientific names with nutritional RDF data from DBpedia.
-Data Output:
+- Data Output:
 
-Generate a new CSV report that includes the nutritional values obtained from querying DBpedia.
-Recipe Querying:
+Generate a new CSV and HTML report that includes the nutritional values obtained from querying DBpedia.
+And computing the Kilocalories for each food.
+- Recipe Querying:
 
-Query recipes from DBpedia and match them with our nutritional table in a Python application.????
+Query recipes from DBpedia and match them with our nutritional table in a Python application. Save to txt file.
 
 ### Significance:
 By integrating diverse data sources and leveraging both relational and RDF models, this project not only enhances our understanding of food and nutrition but also showcases the cultural richness associated with ingredients used globally. This approach provides a comprehensive view of the nutritional content and culinary uses of common vegetables, contributing to better dietary choices and appreciation of global food traditions.
 
-
-
-### Methodology:
-
-Data Extraction:
-
-Relational Database: Extracted data from various relational database tables using SQL queries.
-RDF Sources: Retrieved RDF data using SPARQL queries to access and manipulate the RDF triples.
-Data Transformation:
-
-Mapping: Established mappings between the relational database schema and RDF schema to ensure compatibility and meaningful integration.
-Normalization: Transformed the extracted data into a common format, resolving any schema differences and ensuring consistency.
-Data Integration:
-
-Merging: Combined the normalized data from both sources into a unified dataset. This involved linking relational data entities with RDF entities based on common attributes and relationships.
-Enrichment: Enhanced the relational data with additional context and relationships derived from the RDF data, enriching the overall dataset.
-Application Development:
-
-Backend: Developed the backend logic to handle data extraction, transformation, and integration processes.
-Frontend: Created a user interface to allow users to query and interact with the integrated data seamlessly.
-APIs: Implemented APIs to facilitate data retrieval and integration tasks.
-Technologies Used:
-
-Relational Database Management System (RDBMS): For storing and managing relational data (e.g., MySQL, PostgreSQL).
-RDF Store: For storing and querying RDF data (e.g., Apache Jena, RDF4J).
-SQL: For querying relational data.
-SPARQL: For querying RDF data.
-Programming Languages: Used a programming language like Python, Java, or JavaScript for application logic.
-Frameworks and Libraries: Utilized frameworks such as Flask or Django for backend development, and libraries like RDFlib for RDF processing.
-Benefits:
-
-Comprehensive Data View: By merging relational and RDF data, the application provides a more holistic view of the information, enabling richer insights and better decision-making.
-Enhanced Interoperability: Facilitates interoperability between different data sources, allowing for more flexible and dynamic data integration.
-Improved Data Utilization: Leverages the strengths of both relational and RDF data models, maximizing the value derived from the data.
 
 ## Conclusion:
 This project demonstrates the potential of integrating relational database tables with RDF data sources, showcasing how diverse data models can be harmonized to create a powerful and flexible application. The resulting application not only bridges the gap between structured and semi-structured data but also opens up new possibilities for data analysis and application development.
