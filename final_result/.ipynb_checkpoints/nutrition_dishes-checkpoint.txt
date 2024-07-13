@@ -1,0 +1,595 @@
+Food Information using DBpedia and SPARQL
+========================================
+
+Leek: also known as Allium porrum
+contains: 1.5 grams of protein, 14.15 grams of carbohydrates, and 0.3 grams of fat
+For every 100g it contains: 65.3 calories
+Leek is the main ingredient of:
+    Qutab
+    Lakror
+    Bursa Cantik Pide
+    Cantiq
+
+Garlic: also known as Allium sativum
+contains: 6.36 grams of protein, 33.06 grams of carbohydrates, and 0.5 grams of fat
+For every 100g it contains: 162.18 calories
+Garlic is the main ingredient of:
+    Dakjuk
+    Dum Aloo
+    Kuzi ayam
+    Préfou
+    Zhug
+    Chicken Chettinad
+    Nem nướng
+    Mie cakalang
+    Toum
+    General Tso's chicken
+    Glasswort salad
+    Kerutuk daging
+    Machher Jhol
+    Aioli
+    Capuliato
+    Hmiss
+    Ranch dressing
+    Bagna càuda
+    Chicken Picasso
+    Worcestershire sauce
+    Mititei
+    Ayam masak merah
+    Buridda
+    Burmese fried rice
+    Pink Sauce
+    Bruschetta
+    Carniolan sausage
+    Nasi Beringin
+    Nasi Lemuni
+    Red curry
+    Pistou
+    Pieds paquets
+    Tirokafteri
+    Yellow curry
+    Spaghetti all'assassina
+    Romesco
+    Swiss wing
+
+Chives: also known as Allium schoenoprasum
+contains: 3.27 grams of protein, 4.35 grams of carbohydrates, and 0.73 grams of fat
+For every 100g it contains: 37.05 calories
+Chives is the main ingredient of:
+    Ranch dressing
+
+Pineapple: also known as Ananas comosus
+contains: 0.54 grams of protein, 13.12 grams of carbohydrates, and 0.12 grams of fat
+For every 100g it contains: 55.72 calories
+Pineapple is the main ingredient of:
+    Cucurucho
+    Hamonado
+    Toast Hawaii
+    Tepache
+
+Dill: also known as Anethum graveolens
+contains: 3.5 grams of protein, 7.0 grams of carbohydrates, and 1.1 grams of fat
+For every 100g it contains: 51.9 calories
+Dill is the main ingredient of:
+    Baghali polo
+    Gravlax
+    Ranch dressing
+    Dovga
+
+Oat: also known as Avena sativa
+contains: 16.9 grams of protein, 66.3 grams of carbohydrates, and 6.9 grams of fat
+For every 100g it contains: 394.9 calories
+Oat is the main ingredient of:
+    Oatmeal
+
+Cauliflower: also known as Brassica oleracea var. botrytis
+contains: 1.9 grams of protein, 5.0 grams of carbohydrates, and 0.3 grams of fat
+For every 100g it contains: 30.3 calories
+Cauliflower is the main ingredient of:
+    Cauliflower cheese
+
+Broccoli: also known as Brassica oleracea var. italica
+contains: 2.82 grams of protein, 6.64 grams of carbohydrates, and 0.37 grams of fat
+For every 100g it contains: 41.17 calories
+Broccoli is the main ingredient of:
+    Broccoli slaw
+
+Papaya: also known as Carica papaya
+contains: 0.47 grams of protein, 10.82 grams of carbohydrates, and 0.26 grams of fat
+For every 100g it contains: 47.5 calories
+Papaya is the main ingredient of:
+    Cucurucho
+    Takihi
+
+Chickpea: also known as Cicer arietinum
+contains: 20.5 grams of protein, 27.42 grams of carbohydrates, and 6.04 grams of fat
+For every 100g it contains: 246.04 calories
+Chickpea is the main ingredient of:
+    Toyga soup
+    Chickpea bread
+    Chickpea noghl
+    Guasanas
+
+Watermelon: also known as Citrullus lanatus
+contains: 0.61 grams of protein, 7.55 grams of carbohydrates, and 0.15 grams of fat
+For every 100g it contains: 33.99 calories
+Watermelon is the main ingredient of:
+    Subak-hwachae
+    Watermelon steak
+
+Lemon: also known as Citrus limon
+contains: 1.1 grams of protein, 9.32 grams of carbohydrates, and 0.3 grams of fat
+For every 100g it contains: 44.38 calories
+Lemon is the main ingredient of:
+    'Ota 'ika
+    Spanakorizo
+    Glasswort salad
+    Dizé milé
+    Jhalmuri
+    Ceviche
+    Passatelli
+    Tirokafteri
+
+Coriander: also known as Coriandrum sativum
+contains: 2.13 grams of protein, 3.67 grams of carbohydrates, and 0.52 grams of fat
+For every 100g it contains: 27.88 calories
+Coriander is the main ingredient of:
+    Zhug
+    Koththamalli
+    Jhalmuri
+    Mititei
+    Dovga
+    Mostaccino
+    Yellow curry
+
+Saffron: also known as Crocus sativus
+contains: 0.24 grams of protein, 1.37 grams of carbohydrates, and 0.12 grams of fat
+For every 100g it contains: 7.52 calories
+Saffron is the main ingredient of:
+    Kuzi ayam
+    Basundi
+    Khira sagara
+    Gulab jamun
+    Khoresh bademjan
+    Taftan (bread)
+    Tahchin
+    Imarti
+    Sheermal
+    Shrikhand
+    Saffron rice
+
+Cucumber: also known as Cucumis sativus
+contains: 0.65 grams of protein, 3.63 grams of carbohydrates, and 0.11 grams of fat
+For every 100g it contains: 18.11 calories
+Cucumber is the main ingredient of:
+    Qarymutah
+    Cucumber raita
+    Cucumber sandwich
+    Cucumber soup
+    Jhalmuri
+    Raita
+
+Cumin: also known as Cuminum cyminum
+contains: 17.81 grams of protein, 44.24 grams of carbohydrates, and 22.27 grams of fat
+For every 100g it contains: 448.63 calories
+Cumin is the main ingredient of:
+    Chermoula
+    Ful medames
+    Jal-jeera
+    Salsa golf
+    Shahan ful
+    Yellow curry
+
+Quince: also known as Cydonia oblonga
+contains: 0.4 grams of protein, 15.3 grams of carbohydrates, and 0.1 grams of fat
+For every 100g it contains: 63.7 calories
+Quince is the main ingredient of:
+    Quince cheese
+
+Fennel: also known as Foeniculum vulgare
+contains: 15.8 grams of protein, 52.0 grams of carbohydrates, and 14.9 grams of fat
+For every 100g it contains: 405.3 calories
+Fennel is the main ingredient of:
+    Drokpa katsa
+
+Strawberry: also known as Fragaria X ananassa
+contains: 0.67 grams of protein, 7.68 grams of carbohydrates, and 0.3 grams of fat
+For every 100g it contains: 36.1 calories
+Strawberry is the main ingredient of:
+    Rhubarb pie
+    Strawberry ice cream
+
+Barley: also known as Hordeum vulgare
+contains: 2.3 grams of protein, 28.2 grams of carbohydrates, and 0.4 grams of fat
+For every 100g it contains: 125.6 calories
+Barley is the main ingredient of:
+    Dabo kolo
+    Krupnik (soup)
+    Herring soup
+
+Sweet potato: also known as Ipomoea batatas
+contains: 2.0 grams of protein, 20.1 grams of carbohydrates, and 0.1 grams of fat
+For every 100g it contains: 89.3 calories
+Sweet potato is the main ingredient of:
+    Kānga waru
+    Purple sweet potato haupia pie
+    Linongot
+    Kenpi
+    Soetpatats
+    Bilo-bilo
+    Binignit
+    Camote cue
+
+Lettuce: also known as Lactuca sativa
+contains: 1.35 grams of protein, 2.23 grams of carbohydrates, and 0.22 grams of fat
+For every 100g it contains: 16.3 calories
+Lettuce is the main ingredient of:
+    Chinese chicken salad
+    Club sandwich
+    Chalupa
+
+Apple: also known as Malus pumila
+contains: 0.26 grams of protein, 13.81 grams of carbohydrates, and 0.17 grams of fat
+For every 100g it contains: 57.81 calories
+Apple is the main ingredient of:
+    Apfelküchle
+
+Mango: also known as Mangifera indica
+contains: 0.82 grams of protein, 15.0 grams of carbohydrates, and 0.38 grams of fat
+For every 100g it contains: 66.7 calories
+Mango is the main ingredient of:
+    Mango pomelo sago
+    Mango sticky rice
+
+Millet: also known as Panicum miliaceum
+contains: 11.0 grams of protein, 72.8 grams of carbohydrates, and 4.3 grams of fat
+For every 100g it contains: 373.9 calories
+Millet is the main ingredient of:
+    Ngome (bread)
+    Fura (food)
+    Bryja
+
+Avocado: also known as Persea americana
+contains: 2.0 grams of protein, 8.53 grams of carbohydrates, and 14.66 grams of fat
+For every 100g it contains: 174.06 calories
+Avocado is the main ingredient of:
+    Completo
+    Avocado soup
+
+Parsley: also known as Petroselinum crispum
+contains: 2.97 grams of protein, 6.33 grams of carbohydrates, and 0.79 grams of fat
+For every 100g it contains: 44.31 calories
+Parsley is the main ingredient of:
+    Qarymutah
+    Mercimek köftesi
+    Tortillitas de camarones
+    Ranch dressing
+    Yayla çorbası
+    Tjvjik (food)
+    Persillade
+    Tabbouleh
+
+Pistachio: also known as Pistacia vera
+contains: 20.27 grams of protein, 27.51 grams of carbohydrates, and 45.39 grams of fat
+For every 100g it contains: 599.63 calories
+Pistachio is the main ingredient of:
+    Mozartkugel
+
+Almond: also known as Prunus dulcis
+contains: 21.2 grams of protein, 21.6 grams of carbohydrates, and 100.0 grams of fat
+For every 100g it contains: 1071.2 calories
+Almond is the main ingredient of:
+    Amlu
+    Hoşmerim
+    Jigarthanda (drink)
+
+Guava: also known as Psidium guajava
+contains: 2.55 grams of protein, 14.32 grams of carbohydrates, and 0.95 grams of fat
+For every 100g it contains: 76.03 calories
+Guava is the main ingredient of:
+    Cucurucho
+    Goiabada
+
+Rye: also known as Secale cereale
+contains: 10.34 grams of protein, 75.86 grams of carbohydrates, and 1.63 grams of fat
+For every 100g it contains: 359.47 calories
+Rye is the main ingredient of:
+    Ry-Krisp
+    Rupjmaize
+    Ploatz
+
+Sesame: also known as Sesamum orientale
+contains: 17.7 grams of protein, 23.4 grams of carbohydrates, and 49.7 grams of fat
+For every 100g it contains: 611.7 calories
+Sesame is the main ingredient of:
+    Deuk Deuk Tong
+    Huangqiao sesame cake
+    Barazek
+    Pashmak
+    Handvo
+    Black sesame rice cake
+    Tiler Khaja
+
+Eggplant: also known as Solanum melongena
+contains: 0.98 grams of protein, 5.88 grams of carbohydrates, and 0.18 grams of fat
+For every 100g it contains: 29.06 calories
+Eggplant is the main ingredient of:
+    Beguni
+    Pasta alla Norma
+    Alinazik kebab
+    Parmigiana
+    Baingan bharta
+    Baba ghanoush
+    Badrijani
+    Khoresh bademjan
+    Shukto
+    Tortang talong
+    Poqui poqui
+
+Spinach: also known as Spinacia oleracea
+contains: 2.9 grams of protein, 3.6 grams of carbohydrates, and 0.4 grams of fat
+For every 100g it contains: 29.6 calories
+Spinach is the main ingredient of:
+    Spanakorizo
+    Ispanaklı Selanik Böreği
+    Spinach salad
+    Yayla çorbası
+    Lakror
+    Dovga
+
+Tamarind: also known as Tamarindus indica
+contains: 2.8 grams of protein, 62.5 grams of carbohydrates, and 0.6 grams of fat
+For every 100g it contains: 266.6 calories
+Tamarind is the main ingredient of:
+    Dalcha
+    Kerutuk daging
+    Khatti Dal
+    Worcestershire sauce
+
+Fenugreek: also known as Trigonella foenum-graecum
+contains: 23.0 grams of protein, 58.0 grams of carbohydrates, and 6.4 grams of fat
+For every 100g it contains: 381.6 calories
+Fenugreek is the main ingredient of:
+    Muthia
+    Rfissa
+    Maluj
+    Nasi Lemuni
+    Yellow curry
+
+Mung bean: also known as Vigna radiata
+contains: 7.02 grams of protein, 19.15 grams of carbohydrates, and 0.18 grams of fat
+For every 100g it contains: 106.3 calories
+Mung bean is the main ingredient of:
+    Snow skin mooncake
+    Nokdu-muk
+    Bánh chưng
+    Bánh cốm
+
+Ginger: also known as Zingiber officinale
+contains: 1.82 grams of protein, 17.77 grams of carbohydrates, and 0.75 grams of fat
+For every 100g it contains: 85.11 calories
+Ginger is the main ingredient of:
+    White cut chicken
+    Deuk Deuk Tong
+    Apple crisp
+    Dum Aloo
+    Chicken Chettinad
+    General Tso's chicken
+    Brandy snaps
+    Chinese chicken salad
+    Kerutuk daging
+    Koththamalli
+    Machher Jhol
+    Ginger crunch
+    Ginger milk curd
+    Ginger pickle
+    Bandrek
+    Jal-jeera
+    Bir pletok
+    Coconut chutney
+    Ayam masak merah
+    Shukto
+    Liver soup
+    Nasi Beringin
+    Nasi Lemuni
+    Pfeffernüsse
+    Yellow curry
+    Swiss wing
+
+Banana: also known as Musa acuminata
+contains: 1.09 grams of protein, 22.84 grams of carbohydrates, and 0.33 grams of fat
+For every 100g it contains: 98.69 calories
+Banana is the main ingredient of:
+    Peanut butter, banana and bacon sandwich
+    Poi (dessert)
+    Banana ketchup
+    Bilo-bilo
+    Binignit
+    Unni appam
+
+Shallot: also known as Allium ascalonicum
+contains: 2.5 grams of protein, 16.8 grams of carbohydrates, and 0.1 grams of fat
+For every 100g it contains: 78.1 calories
+Shallot is the main ingredient of:
+    Nem nướng
+    Mie cakalang
+
+Carrot: also known as Daucus carota ssp. sativus
+contains: 0.93 grams of protein, 9.6 grams of carbohydrates, and 0.18 grams of fat
+For every 100g it contains: 43.74 calories
+Carrot is the main ingredient of:
+    Coda alla vaccinara
+    Rosolli
+
+Napa cabbage: also known as Brassica rapa var. pekinensis
+contains: 1.2 grams of protein, 3.2 grams of carbohydrates, and 0.2 grams of fat
+For every 100g it contains: 19.4 calories
+Napa cabbage is the main ingredient of:
+    Baechu-kimchi
+    Baek-kimchi
+
+Acorn: also known as Quercus
+contains: 6.15 grams of protein, 40.75 grams of carbohydrates, and 23.85 grams of fat
+For every 100g it contains: 402.25 calories
+Acorn is the main ingredient of:
+    Dotori-muk
+
+Cassava: also known as Manihot esculenta
+contains: 1.4 grams of protein, 38.1 grams of carbohydrates, and 0.3 grams of fat
+For every 100g it contains: 160.7 calories
+Cassava is the main ingredient of:
+    Carimañola
+    Piutu
+    Kabkab
+    Javanese doughnut
+    Gethuk
+
+Coconut: also known as Cocos nucifera
+contains: 3.33 grams of protein, 15.23 grams of carbohydrates, and 33.49 grams of fat
+For every 100g it contains: 375.65 calories
+Coconut is the main ingredient of:
+    Sata (food)
+    Macapuno
+    Anzac biscuit
+    Cucurucho
+    Daheen
+    Pek nga
+    Chicken Chettinad
+    Puttu
+    Krispie
+    Kue kochi
+    Gizzada
+    Chukuchuk
+    Geplak
+    Kakara pitha
+    Wingko
+    Cocada amarela
+    Coconut chutney
+    Coconut doughnut
+    Coconut milk
+    Toto (dessert)
+    Avial
+    Cameo Creme
+    Neyyappam
+    Olho-de-sogra
+    Gethuk
+    Manda pitha
+    Manjar branco
+    Palitaw
+    Ruske kape
+    Unnakai
+    Pan de coco
+
+Durian: also known as Durio zibethinus
+contains: 1.47 grams of protein, 27.09 grams of carbohydrates, and 5.33 grams of fat
+For every 100g it contains: 162.21 calories
+Durian is the main ingredient of:
+    Tempoyak
+
+Hazelnut: also known as Corylus
+contains: 14.95 grams of protein, 16.7 grams of carbohydrates, and 60.75 grams of fat
+For every 100g it contains: 673.35 calories
+Hazelnut is the main ingredient of:
+    Tirolerkuchen
+
+Jujube: also known as Ziziphus zizyphus
+contains: 1.2 grams of protein, 20.23 grams of carbohydrates, and 1.1 grams of fat
+For every 100g it contains: 95.62 calories
+Jujube is the main ingredient of:
+    Daechu-gom
+
+Kale: also known as Brassica napus var. pabularia
+contains: 1.9 grams of protein, 8.8 grams of carbohydrates, and 0.4 grams of fat
+For every 100g it contains: 46.4 calories
+Kale is the main ingredient of:
+    Knieperkohl
+
+Okra: also known as Abelmoschus esculentus
+contains: 1.9 grams of protein, 7.46 grams of carbohydrates, and 0.19 grams of fat
+For every 100g it contains: 39.15 calories
+Okra is the main ingredient of:
+    Bhendi fry
+
+Taro: also known as Colocasia esculenta
+contains: 5.0 grams of protein, 6.7 grams of carbohydrates, and 0.11 grams of fat
+For every 100g it contains: 47.79 calories
+Taro is the main ingredient of:
+    Lūʻau (food)
+    Laulau
+    Bilo-bilo
+    Binignit
+    Imoni
+    Taro purée
+    Takihi
+
+Wheat: also known as Triticum
+contains: 12.61 grams of protein, 71.18 grams of carbohydrates, and 1.54 grams of fat
+For every 100g it contains: 349.02 calories
+Wheat is the main ingredient of:
+    Toyga soup
+    Cuccìa
+    Milk roll
+    Churma
+    Kansar
+    Blini
+    Toobs
+    Wheatena
+    Sandige
+
+Cinnamon: also known as Cinnamomum
+contains: 4.0 grams of protein, 80.6 grams of carbohydrates, and 1.2 grams of fat
+For every 100g it contains: 349.2 calories
+Cinnamon is the main ingredient of:
+    Moravian sugar cake
+    Apple crisp
+    Dutch baby pancake
+    Kuzi ayam
+    Arisa pitha
+    Fatost
+    Franzbrötchen
+    Kerutuk daging
+    Dizé milé
+    Karydopita
+    Leche frita
+    Tahini roll
+    Bandrek
+    Capirotada
+    Cider doughnut
+    Pio Quinto
+    Soetpatats
+    Honey bun
+    Filhó
+    Cevizli Irmik Tatlısı
+    Teurgoule
+    Mostaccino
+    Pfeffernüsse
+    Yellow curry
+
+Persimmon: also known as Diospyros
+contains: 0.8 grams of protein, 33.5 grams of carbohydrates, and 0.4 grams of fat
+For every 100g it contains: 140.8 calories
+Persimmon is the main ingredient of:
+    Persimmon vinegar
+    Persimmon pudding
+
+Walnut: also known as Juglans
+contains: 15.23 grams of protein, 13.71 grams of carbohydrates, and 65.21 grams of fat
+For every 100g it contains: 702.65 calories
+Walnut is the main ingredient of:
+    Ttongppang
+    Karydopita
+    Afghan (biscuit)
+    Coffee and walnut cake
+    Cevizli Irmik Tatlısı
+
+Cabbage: also known as Brassica oleracea var. capitata
+contains: 1.28 grams of protein, 5.8 grams of carbohydrates, and 0.1 grams of fat
+For every 100g it contains: 29.22 calories
+Cabbage is the main ingredient of:
+    Mie koclok
+    Maple slaw
+    Dim sim
+    Gołąbki
+    Lakror
+    Red slaw
+

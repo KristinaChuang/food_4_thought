@@ -1,19 +1,19 @@
 food_name,scientific_name
 Angelica,Angelica keiskei
-Savoy_cabbage,Brassica oleracea var. sabauda
-Silver_linden,Tilia argentea
+Savoy cabbage,Brassica oleracea var. sabauda
+Silver linden,Tilia argentea
 Kiwi,Actinidia chinensis
-Allium_onion,Allium
-Garden_onion,Allium cepa
+Allium ,Allium
+Garden onion,Allium cepa
 Leek,Allium porrum
 Garlic,Allium sativum
 Chives,Allium schoenoprasum
-Lemon_verbena,Aloysia triphylla
-Cashew_nut,Anacardium occidentale
+Lemon verbena,Aloysia triphylla
+Cashew nut,Anacardium occidentale
 Pineapple,Ananas comosus
 Dill,Anethum graveolens
-Custard_apple,Annona reticulata
-Wild_celery,Apium graveolens
+Custard apple,Annona reticulata
+Wild celery,Apium graveolens
 Peanut,Arachis hypogaea
 Burdock,Arctium lappa
 Horseradish,Armoracia rusticana
@@ -21,157 +21,157 @@ Tarragon,Artemisia dracunculus
 Mugwort,Artemisia vulgaris
 Asparagus,Asparagus officinalis
 Oat,Avena sativa
-Star_fruit,Averrhoa carambola
-Brazil_nut,Bertholletia excelsa
-Common_beet,Beta vulgaris
+Star fruit,Averrhoa carambola
+Brazil nut,Bertholletia excelsa
+Common beet,Beta vulgaris
 Borage,Borago officinalis
-Chinese_mustard,Brassica juncea
+Chinese mustard,Brassica juncea
 Swede,Brassica napus
 Rape,Brassica napus var. napus
-Common_cabbage,Brassica oleracea
+Common cabbage,Brassica oleracea
 Cauliflower,Brassica oleracea var. botrytis
-Brussel_sprouts,Brassica oleracea var. gemmifera
+Brussel sprouts,Brassica oleracea var. gemmifera
 Kohlrabi,Brassica oleracea var. gongylodes
 Broccoli,Brassica oleracea var. italica
-Chinese_cabbage,Brassica rapa
+Chinese cabbage,Brassica rapa
 Turnip,Brassica rapa var. rapa
-Pigeon_pea,Cajanus cajan
+Pigeon pea,Cajanus cajan
 Tea,Camellia sinensis
 Capers,Capparis spinosa
-Pepper_c,Capsicum annuum
+Pepper ,Capsicum annuum
 Papaya,Carica papaya
 Safflower,Carthamus tinctorius
 Caraway,Carum carvi
-Pecan_nut,Carya illinoinensis
+Pecan nut,Carya illinoinensis
 Chestnut,Castanea
-Roman_camomile,Chamaemelum nobile
+Roman camomile,Chamaemelum nobile
 Chickpea,Cicer arietinum
 Endive,Cichorium endivia
 Chicory,Cichorium intybus
-Chinese_cinnamon,Cinnamomum aromaticum
-Ceylon_cinnamon,Cinnamomum verum
+Chinese cinnamon,Cinnamomum aromaticum
+Ceylon cinnamon,Cinnamomum verum
 Watermelon,Citrullus lanatus
 Lime,Citrus aurantiifolia
 Lemon,Citrus limon
 Pummelo,Citrus maxima
-Mandarin_orange,Citrus reticulata
-Sweet_orange,Citrus sinensis
+Mandarin orange ,Citrus reticulata
+Sweet orange,Citrus sinensis
 Coffee,Coffea
-Arabica_coffee,Coffea arabica
-Robusta_coffee,Coffea canephora
+Arabica coffee,Coffea arabica
+Robusta coffee,Coffea canephora
 Coriander,Coriandrum sativum
-Common_hazelnut,Corylus avellana
+Common hazelnut,Corylus avellana
 Saffron,Crocus sativus
 Muskmelon,Cucumis melo
 Cucumber,Cucumis sativus
-Cucurbita_gourd,Cucurbita
+Cucurbita ,Cucurbita
 Cumin,Cuminum cyminum
 Turmeric,Curcuma longa
 Quince,Cydonia oblonga
-Lemon_grass,Cymbopogon citratus
-Globe_artichoke,Cynara scolymus
-Wild_carrot,Daucus carota
-Japanese_persimmon,Diospyros kaki
+Lemon grass,Cymbopogon citratus
+Globe artichoke,Cynara scolymus
+Wild carrot,Daucus carota
+Japanese persimmon,Diospyros kaki
 Cardamom,Elettaria cardamomum
-Black_crowberry,Empetrum nigrum
+Black crowberry,Empetrum nigrum
 Loquat,Eriobotrya japonica
-Rocket_salad,Eruca vesicaria ssp. sativa
-Wax_apple,Eugenia
-Common_buckwheat,Fagopyrum esculentum
-Tartary_buckwheat,Fagopyrum tataricum
+Rocket salad ,Eruca vesicaria ssp. sativa
+Wax apple,Eugenia
+Common buckwheat,Fagopyrum esculentum
+Tartary buckwheat,Fagopyrum tataricum
 Fig,Ficus carica
 Fennel,Foeniculum vulgare
 Strawberry,Fragaria X ananassa
-Black_huckleberry,Gaylussacia baccata
-Soy_bean,Glycine max
+Black huckleberry,Gaylussacia baccata
+Soy bean,Glycine max
 Sunflower,Helianthus annuus
 Sea-buckthornberry,Hippophae rhamnoides
 Barley,Hordeum vulgare
 Hyssop,Hyssopus officinalis
-Star_anise,Illicium verum
-Swamp_cabbage,Ipomoea aquatica
-Sweet_potato,Ipomoea batatas
-Black_walnut,Juglans nigra
-Common_walnut,Juglans regia
+Star anise,Illicium verum
+Swamp cabbage,Ipomoea aquatica
+Sweet potato,Ipomoea batatas
+Black walnut,Juglans nigra
+Common walnut,Juglans regia
 Lettuce,Lactuca sativa
-Grass_pea,Lathyrus sativus
-Sweet_bay,Laurus nobilis
+Grass pea,Lathyrus sativus
+Sweet bay,Laurus nobilis
 Lentils,Lens culinaris
-Garden_cress,Lepidium sativum
+Garden cress,Lepidium sativum
 Lovage,Levisticum officinale
 Flaxseed,Linum usitatissimum
-Mexican_oregano,Lippia graveolens
+Mexican oregano,Lippia graveolens
 Lichee,Litchi chinensis
 Lupine,Lupinus
 Apple,Malus pumila
 Mango,Mangifera indica
-German_camomile,Matricaria recutita
-Lemon_balm,Melissa officinalis
-Mentha_mint,Mentha
-Orange_mint,Mentha aquatica
+German camomile,Matricaria recutita
+Lemon balm,Melissa officinalis
+Mentha ,Mentha
+Orange mint,Mentha aquatica
 Cornmint,Mentha arvensis
 Spearmint,Mentha spicata
 Peppermint,Mentha X piperita
 Medlar,Mespilus germanica
-Bitter_gourd,Momordica charantia
+Bitter gourd,Momordica charantia
 Mulberry,Morus
-Black_mulberry,Morus nigra
+Black mulberry,Morus nigra
 Nutmeg,Myristica fragrans
-Sweet_basil,Ocimum basilicum
-Evening_primrose,Oenothera biennis
+Sweet basil,Ocimum basilicum
+Evening primrose,Oenothera biennis
 Olive,Olea europaea
-Sweet_marjoram,Origanum majorana
-Pot_marjoram,Origanum onites
-Common_oregano,Origanum vulgare
+Sweet marjoram,Origanum majorana
+Pot marjoram,Origanum onites
+Common oregano,Origanum vulgare
 Rice,Oryza sativa
 Millet,Panicum miliaceum
 Poppy,Papaver
-Passion_fruit,Passiflora edulis
+Passion fruit,Passiflora edulis
 Parsnip,Pastinaca sativa
 Avocado,Persea americana
 Parsley,Petroselinum crispum
-Scarlet_bean,Phaseolus coccineus
-Lima_bean,Phaseolus lunatus
-Common_bean,Phaseolus vulgaris
+Scarlet bean,Phaseolus coccineus
+Lima bean,Phaseolus lunatus
+Common bean,Phaseolus vulgaris
 Date,Phoenix dactylifera
-Black_chokeberry,Photinia melanocarpa
+Black chokeberry,Photinia melanocarpa
 Anise,Pimpinella anisum
-Pine_nut,Pinus
-Pepper_spice,Piper nigrum
+Pine nut,Pinus
+Pepper ,Piper nigrum
 Pistachio,Pistacia vera
-Common_pea,Pisum sativum
+Common pea,Pisum sativum
 Purslane,Portulaca oleracea
-Prunus_cherry,Prunus
+Prunus ,Prunus
 Apricot,Prunus armeniaca
-Sweet_cherry,Prunus avium
-Sour_cherry,Prunus cerasus
-European_plum,Prunus domestica
+Sweet cherry,Prunus avium
+Sour cherry,Prunus cerasus
+European plum,Prunus domestica
 Almond,Prunus dulcis
 Peach,Prunus persica
 Guava,Psidium guajava
 Pomegranate,Punica granatum
 Pear,Pyrus communis
 Radish,Raphanus sativus
-Garden_rhubarb,Rheum rhabarbarum
+Garden rhubarb,Rheum rhabarbarum
 Blackcurrant,Ribes nigrum
 Redcurrant,Ribes rubrum
 Gooseberry,Ribes uva-crispa
 Watercress,Rorippa nasturtium-aquaticum
 Rosemary,Rosmarinus officinalis
-Rubus_blackberry,Rubus
+Rubus ,Rubus
 Cloudberry,Rubus chamaemorus
-Red_raspberry,Rubus idaeus
-Black_raspberry,Rubus occidentalis
+Red raspberry,Rubus idaeus
+Black raspberry,Rubus occidentalis
 Sorrel,Rumex acetosa
-Common_sage,Salvia officinalis
-Black_elderberry,Sambucus nigra
-Summer_savory,Satureja hortensis
-Winter_savory,Satureja montana
+Common sage,Salvia officinalis
+Black elderberry,Sambucus nigra
+Summer savory,Satureja hortensis
+Winter savory,Satureja montana
 Rye,Secale cereale
 Sesame,Sesamum orientale
-Garden_tomato,Solanum lycopersicum
-Cherry_tomato,Solanum lycopersicum var. cerasiforme
-Garden_tomato,Solanum lycopersicum var. lycopersicum
+Garden tomato,Solanum lycopersicum
+Cherry tomato,Solanum lycopersicum var. cerasiforme
+Garden tomato ,Solanum lycopersicum var. lycopersicum
 Eggplant,Solanum melongena
 Potato,Solanum tuberosum
 Rowanberry,Sorbus aucuparia
@@ -180,470 +180,470 @@ Spinach,Spinacia oleracea
 Cloves,Syzygium aromaticum
 Tamarind,Tamarindus indica
 Dandelion,Taraxacum officinale
-Cocoa_bean,Theobroma cacao
-Common_thyme,Thymus vulgaris
+Cocoa bean,Theobroma cacao
+Common thyme,Thymus vulgaris
 Linden,Tilia
-Small-leaf_linden,Tilia cordata
+Small-leaf linden,Tilia cordata
 Fenugreek,Trigonella foenum-graecum
-Common_wheat,Triticum aestivum
-Vaccinium_blueberry,Vaccinium
-Lowbush_blueberry,Vaccinium angustifolium
+Common wheat,Triticum aestivum
+Vaccinium ,Vaccinium
+Lowbush blueberry,Vaccinium angustifolium
 Sparkleberry,Vaccinium arboreum
-Highbush_blueberry,Vaccinium corymbosum
-American_cranberry,Vaccinium macrocarpon
+Highbush blueberry,Vaccinium corymbosum
+American cranberry,Vaccinium macrocarpon
 Bilberry,Vaccinium myrtillus
 Lingonberry,Vaccinium vitis-idaea
 Vanilla,Vanilla
-Common_verbena,Verbena officinalis
-Broad_bean,Vicia faba
-Adzuki_bean,Vigna angularis
-Gram_bean,Vigna mungo
-Mung_bean,Vigna radiata
-Climbing_bean,Vigna umbellata
+Common verbena,Verbena officinalis
+Broad bean,Vicia faba
+Adzuki bean,Vigna angularis
+Gram bean,Vigna mungo
+Mung bean,Vigna radiata
+Climbing bean,Vigna umbellata
 Cowpea,Vigna unguiculata
-Muscadine_grape,Vitis rotundifolia
-Common_grape,Vitis vinifera
+Muscadine grape,Vitis rotundifolia
+Common grape,Vitis vinifera
 Corn,Zea mays
 Ginger,Zingiber officinale
-Arctic_blackberry,Rubus arcticus
+Arctic blackberry,Rubus arcticus
 Banana,Musa acuminata
 Bayberry,Myrica
-Elliott's_blueberry,Vaccinium elliottii
-Canada_blueberry,Vaccinium myrtilloides
-Bog_bilberry,Vaccinium uliginosum
-Buffalo_currant,Ribes aureum var. villosum
+Elliott's blueberry,Vaccinium elliottii
+Canada blueberry,Vaccinium myrtilloides
+Bog bilberry,Vaccinium uliginosum
+Buffalo currant,Ribes aureum var. villosum
 Celeriac,Apium graveolens var. rapaceum
-Celery_stalks,Apium graveolens var. dulce
-Chinese_chives,Allium tuberosum
-European_cranberry,Vaccinium oxycoccos
+Celery stalks,Apium graveolens var. dulce
+Chinese chives,Allium tuberosum
+European cranberry,Vaccinium oxycoccos
 Deerberry,Vaccinium stamineum
 Ginseng,Panax
-Cascade_huckleberry,Vaccinium deliciosum
-Oval-leaf_huckleberry,Vaccinium ovalifolium
-Evergreen_huckleberry,Vaccinium ovatum
-Red_huckleberry,Vaccinium parvifolium
+Cascade huckleberry,Vaccinium deliciosum
+Oval-leaf huckleberry,Vaccinium ovalifolium
+Evergreen huckleberry,Vaccinium ovatum
+Red huckleberry,Vaccinium parvifolium
 Longan,Dimocarpus longan
-Macadamia_nut,Macadamia tetraphylla
-Garden_onion,Allium cepa var. cepa
-Summer_grape,Vitis aestivalis
-Fox_grape,Vitis labrusca
+Macadamia nut ,Macadamia tetraphylla
+Garden onion ,Allium cepa var. cepa
+Summer grape,Vitis aestivalis
+Fox grape,Vitis labrusca
 Nectarine,Prunus persica var. nucipersica
-Peach_var,Prunus persica var. persica
-Pepper_c,Capsicum baccatum var. baccatum
-Pepper_c,Capsicum chinense
-Pepper_capsicum,Capsicum
+Peach ,Prunus persica var. persica
+Pepper ,Capsicum baccatum var. baccatum
+Pepper ,Capsicum chinense
+Pepper ,Capsicum
 Rambutan,Nephelium lappaceum
-Red_rice,Oryza rufipogon
-Annual_wild,Zizania aquatica
-Swiss_chard,Beta vulgaris ssp. cicla
-Lemon_thyme,Thymus pulegioides
-Tronchuda_cabbage,Brassica oleracea var. costata
-Japanese_walnut,Juglans ailanthifolia
-Welsh_onion,Allium fistulosum
-Hard_wheat,Triticum durum
+Red rice,Oryza rufipogon
+Annual wild rice,Zizania aquatica
+Swiss chard,Beta vulgaris ssp. cicla
+Lemon thyme,Thymus pulegioides
+Tronchuda cabbage,Brassica oleracea var. costata
+Japanese walnut,Juglans ailanthifolia
+Welsh onion,Allium fistulosum
+Hard wheat,Triticum durum
 Shallot,Allium ascalonicum
-Rocket_salad,Eruca vesicaria
+Rocket salad,Eruca vesicaria
 Carrot,Daucus carota ssp. sativus
 Triticale,X Triticosecale rimpaui
-Black_cabbage,Brassica oleracea var. viridis
-Half-highbush_blueberry,Vaccinium angustifolium X Vaccinium corymbosum
-Celery_leaves,Apium graveolens var. secalinum
-Chicory_leaves,Cichorium intybus var. foliosum
+Black cabbage,Brassica oleracea var. viridis
+Half-highbush blueberry,Vaccinium angustifolium X Vaccinium corymbosum
+Celery leaves,Apium graveolens var. secalinum
+Chicory leaves,Cichorium intybus var. foliosum
 Komatsuna,Brassica rapa var. perviridis
-Pak_choy,Brassica rapa var. chinensis
-Napa_cabbage,Brassica rapa var. pekinensis
-Chicory_roots,Cichorium intybus var. sativum
-Grapefruit/pummelo_hybrid,Citrus paradisi X Citrus maxima
+Pak choy,Brassica rapa var. chinensis
+Napa cabbage,Brassica rapa var. pekinensis
+Chicory roots,Cichorium intybus var. sativum
+Grapefruit/Pummelo hybrid,Citrus paradisi X Citrus maxima
 Grapefruit,Citrus X paradisi
 Jostaberry,Ribes Ã nidigrolaria
 Kai-lan,Brassica oleracea var. alboglabra
-Italian_oregano,Origanum X majoricum
-Oxheart_cabbage,Brassica oleracea var. conica
-Daikon_radish,Raphanus sativus var. longipinnatus
-Black_radish,Raphanus sativus var. niger
-Radish_var,Raphanus sativus var. sativus
-Red_beetroot,Beta vulgaris var. rubra
-Sweet_rowanberry,Grataegosorbus mitschurinii
-Pineappple_sage,Salvia elegans
-Skunk_currant,Ribes glandulosum
+Italian oregano,Origanum X majoricum
+Oxheart cabbage,Brassica oleracea var. conica
+Daikon radish,Raphanus sativus var. longipinnatus
+Black radish,Raphanus sativus var. niger
+Radish ,Raphanus sativus var. sativus
+Red beetroot,Beta vulgaris var. rubra
+Sweet rowanberry,Grataegosorbus mitschurinii
+Pineappple sage,Salvia elegans
+Skunk currant,Ribes glandulosum
 Abalone,Haliotis
 Abiyuch,Crateva religiosa
 Acerola,Malpighia emarginata
 Acorn,Quercus
-Winter_squash,Cucurbita maxima
+Winter squash,Cucurbita maxima
 Agar,Eucheuma
-Red_king,Paralithodes camtschaticus
+Red king crab,Paralithodes camtschaticus
 Alfalfa,Medicago sativa
 Allspice,Pimenta dioica
 Amaranth,Amaranthus
 Arrowhead,Sagittaria latifolia
 Arrowroot,Maranta arundinacea
-Asian_pear,Pyrus pyrifolia
-Atlantic_herring,Clupea harengus harengus
-Atlantic_mackerel,Scomber scombrus
-Painted_comber,Serranus scriba
-Atlantic_pollock,Pollachius pollachius
-Atlantic_wolffish,Anarhichas lupus
-Bamboo_shoots,Phyllostachys edulis
-Striped_bass,Morone saxatilis
+Asian pear,Pyrus pyrifolia
+Atlantic herring,Clupea harengus harengus
+Atlantic mackerel,Scomber scombrus
+Painted comber,Serranus scriba
+Atlantic pollock,Pollachius pollachius
+Atlantic wolffish,Anarhichas lupus
+Bamboo shoots,Phyllostachys edulis
+Striped bass,Morone saxatilis
 Beaver,Castor canadensis
-Beech_nut,Fagus
-Beluga_whale,Delphinapterus leucas
+Beech nut,Fagus
+Beluga whale,Delphinapterus leucas
 Bison,Bison bison
-Black_bear,Ursus americanus
-Alaska_blackfish,Dallia pectoralis
-Blue_crab,Callinectes sapidus
-Blue_mussel,Mytilus edulis
-Northern_bluefin,Thunnus thynnus
+Black bear,Ursus americanus
+Alaska blackfish,Dallia pectoralis
+Blue crab,Callinectes sapidus
+Blue mussel,Mytilus edulis
+Northern bluefin tuna,Thunnus thynnus
 Bluefish,Pomatomus saltatrix
-Wild_boar,Sus scrofa
-Bowhead_whale,Balaena mysticetus
+Wild boar,Sus scrofa
+Bowhead whale,Balaena mysticetus
 Breadfruit,Artocarpus altilis
-Breadnut_tree,Brosimum alicastrum
+Breadnut tree seed,Brosimum alicastrum
 Rapini,Brassica ruvo
-Brown_bear,Ursus arctos
+Brown bear,Ursus arctos
 Buffalo,Bubalus bubalis
 Burbot,Lota lota
-Giant_butterbur,Petasites japonicus
-American_butterfish,Peprilus triacanthus
+Giant butterbur,Petasites japonicus
+American butterfish,Peprilus triacanthus
 Butternut,Juglans cinerea
-Butternut_squash,Cucurbita moschata
+Butternut squash,Cucurbita moschata
 Calabash,Lagenaria siceraria
 Cardoon,Cynara cardunculus
 Caribou,Rangifer tarandus
-Natal_plum,Carissa macrocarpa
+Natal plum,Carissa macrocarpa
 Carob,Ceratonia siliqua
-Common_carp,Cyprinus carpio
+Common carp,Cyprinus carpio
 Cassava,Manihot esculenta
-Channel_catfish,Ictalurus punctatus
+Channel catfish,Ictalurus punctatus
 Chayote,Sechium edule
 Cherimoya,Annona cherimola
 Chervil,Anthriscus cerefolium
 Chia,Salvia hispanica
-Chicken_cock,Gallus gallus
-Chinese_broccoli,Brassica alboglabra
-Chinese_chestnut,Castanea mollissima
-Chinese_water,Eleocharis dulcis
-Garland_chrysanthemum,Chrysanthemum coronarium
+Chicken ,Gallus gallus
+Chinese broccoli,Brassica alboglabra
+Chinese chestnut,Castanea mollissima
+Chinese water chestnut,Eleocharis dulcis
+Garland chrysanthemum,Chrysanthemum coronarium
 Cisco,Coregonus artedi
-Nuttall_cockle,Clinocardium nuttallii
+Nuttall cockle,Clinocardium nuttallii
 Coconut,Cocos nucifera
-Pacific_cod,Gadus macrocephalus
-Atlantic_cod,Gadus morhua
-Common_octopus,Octopus vulgaris
-Corn_salad,Valerianella locusta
+Pacific cod,Gadus macrocephalus
+Atlantic cod,Gadus morhua
+Common octopus,Octopus vulgaris
+Corn salad,Valerianella locusta
 Cottonseed,Gossypium
-Catjang_pea,Vigna unguiculata ssp. cylindrica
-Malus_crab,Malus
+Catjang pea,Vigna unguiculata ssp. cylindrica
+Malus ,Malus
 Squashberry,Viburnum edule
-Atlantic_croaker,Micropogonias undulatus
+Atlantic croaker,Micropogonias undulatus
 Cusk,Brosme brosme
 Cuttlefish,Sepiidae
-Mule_deer,Odocoileus
+Mule deer,Odocoileus
 Devilfish,Myoxocephalus
 Dock,Rumex
-Dolphin_fish,Coryphaena hippurus
-Freshwater_drum,Aplodinotus grunniens
-Mallard_duck,Anas platyrhynchos
-Dungeness_crab,Cancer magister
+Dolphin fish,Coryphaena hippurus
+Freshwater drum,Aplodinotus grunniens
+Mallard duck,Anas platyrhynchos
+Dungeness crab,Cancer magister
 Durian,Durio zibethinus
-Eastern_oyster,Crassostrea virginica
-Freshwater_eel,Anguilla
+Eastern oyster,Crassostrea virginica
+Freshwater eel,Anguilla
 Elderberry,Sambucus
 Elk,Cervus canadensis
 Emu,Dromaius novaehollandiae
-Oregon_yampah,Perideridia oregana
-European_anchovy,Engraulis encrasicolus
-European_chestnut,Castanea sativa
+Oregon yampah,Perideridia oregana
+European anchovy,Engraulis encrasicolus
+European chestnut,Castanea sativa
 Turbot,Scophthalmus maximus
 Fireweed,Chamerion angustifolium
-Florida_pompano,Trachinotus carolinus
-Ginkgo_nuts,Ginkgo biloba
-Greylag_goose,Anser anser
+Florida pompano,Trachinotus carolinus
+Ginkgo nuts,Ginkgo biloba
+Greylag goose,Anser anser
 Grape,Vitis
-Greenland_halibut/turbot,Reinhardtius hippoglossoides
+Greenland halibut/turbot,Reinhardtius hippoglossoides
 Groundcherry,Physalis
 Grouper,Epinephelus
-Guinea_hen,Numida meleagris
+Guinea hen,Numida meleagris
 Haddock,Melanogrammus aeglefinus
-Hippoglossus_common,Hippoglossus
+Hippoglossus ,Hippoglossus
 Hazelnut,Corylus
-Hickory_nut,Carya
+Hickory nut,Carya
 Horse,Equus caballus
-Horseradish_tree,Moringa oleifera
-Alaska_blueberry,Vaccinium alaskaense
-Hyacinth_bean,Lablab purpureus
-Irish_moss,Chondrus crispus
-Pacific_jack,Trachurus symmetricus
+Horseradish tree,Moringa oleifera
+Alaska blueberry,Vaccinium alaskaense
+Hyacinth bean,Lablab purpureus
+Irish moss,Chondrus crispus
+Pacific jack mackerel,Trachurus symmetricus
 Jackfruit,Artocarpus heterophyllus
-Japanese_chestnut,Castanea crenata
-Java_plum,Syzygium cumini
-Jerusalem_artichoke,Helianthus tuberosus
+Japanese chestnut,Castanea crenata
+Java plum,Syzygium cumini
+Jerusalem artichoke,Helianthus tuberosus
 Jujube,Ziziphus zizyphus
 Jute,Corchorus olitorius
 Kale,Brassica napus var. pabularia
 Kelp,Laminaria
-King_mackerel,Scomberomorus cavalla
+King mackerel,Scomberomorus cavalla
 Kumquat,Fortunella
 Lambsquarters,Chenopodium album
-Leather_chiton,Katharina tunicata
-Wild_leek,Allium ampeloprasum
-Common_ling,Molva molva
+Leather chiton,Katharina tunicata
+Wild leek,Allium ampeloprasum
+Common ling,Molva molva
 Lingcod,Ophiodon elongatus
-American_lobster,Homarus americanus
+American lobster,Homarus americanus
 Loganberry,Rubus loganobaccus
 Lotus,Nelumbo
-Sacred_lotus,Nelumbo nucifera
-White_lupine,Lupinus albus
-Malabar_spinach,Basella alba
-Mammee_apple,Mammea americana
-Purple_mangosteen,Garcinia mangostana
-Alpine_sweetvetch,Hedysarum alpinum
+Sacred lotus,Nelumbo nucifera
+White lupine,Lupinus albus
+Malabar spinach,Basella alba
+Mammee apple,Mammea americana
+Purple mangosteen,Garcinia mangostana
+Alpine sweetvetch,Hedysarum alpinum
 Milkfish,Chanos chanos
 Monkfish,Lophius piscatorius
 Moose,Alces alces
-Moth_bean,Vigna aconitifolia
-Mountain_yam,Dioscorea pentaphylla
-Striped_mullet,Mugil cephalus
+Moth bean,Vigna aconitifolia
+Mountain yam,Dioscorea pentaphylla
+Striped mullet,Mugil cephalus
 Muskrat,Ondatra zibethicus
-White_mustard,Sinapis alba
-Mustard_spinach,Brassica perviridis
-New_zealand,Tetragonia tetragonioides
+White mustard,Sinapis alba
+Mustard spinach,Brassica perviridis
+New Zealand spinach,Tetragonia tetragonioides
 Nopal,Opuntia cochenillifera
-Ocean_pout,Zoarces americanus
-North_pacific,Enteroctopus dofleini
-Ohelo_berry,Vaccinium reticulatum
+Ocean pout,Zoarces americanus
+North Pacific giant octopus,Enteroctopus dofleini
+Ohelo berry,Vaccinium reticulatum
 Okra,Abelmoschus esculentus
 Tunicate,Tunicata
 Opossum,Didelphis virginiana
 Ostrich,Struthio camelus
-Spotted_seal,Phoca largha
-Pacific_herring,Clupea pallasii
-Pacific_oyster,Crassostrea gigas
-Pacific_rockfish,Sebastes
-Velvet_duck,Melanitta fusca
-Pepper_c,Capsicum annuum var. annuum
-Common_persimmon,Diospyros virginiana
+Spotted seal,Phoca largha
+Pacific herring,Clupea pallasii
+Pacific oyster,Crassostrea gigas
+Pacific rockfish,Sebastes
+Velvet duck,Melanitta fusca
+Pepper ,Capsicum annuum var. annuum
+Common persimmon,Diospyros virginiana
 Pheasant,Phasianus colchicus
-Northern_pike,Esox lucius
-Pili_nut,Canarium ovatum
-Colorado_pinyon,Pinus edulis
+Northern pike,Esox lucius
+Pili nut,Canarium ovatum
+Colorado pinyon,Pinus edulis
 Pitanga,Eugenia uniflora
-Plains_prickly,Opuntia macrorhiza
-French_plantain,Musa X paradisiaca
-American_pokeweed,Phytolacca americana
-Polar_bear,Ursus maritimus
-Opium_poppy,Papaver somniferum
-Prairie_turnip,Pediomelum esculentum
-Prickly_pear,Opuntia
+Plains prickly pear,Opuntia macrorhiza
+French plantain,Musa X paradisiaca
+American pokeweed,Phytolacca americana
+Polar bear,Ursus maritimus
+Opium poppy,Papaver somniferum
+Prairie turnip,Pediomelum esculentum
+Prickly pear,Opuntia
 Quinoa,Chenopodium quinoa
-European_rabbit,Oryctolagus
+European rabbit,Oryctolagus
 Raccoon,Procyon lotor
-Rainbow_smelt,Osmerus mordax
-Rainbow_trout,Oncorhynchus mykiss
-Malabar_plum,Syzygium jambos
-Rose_hip,Rosa
+Rainbow smelt,Osmerus mordax
+Rainbow trout,Oncorhynchus mykiss
+Malabar plum,Syzygium jambos
+Rose hip,Rosa
 Roselle,Hibiscus sabdariffa
-Orange_roughy,Hoplostethus atlanticus
+Orange roughy,Hoplostethus atlanticus
 Sablefish,Anoplopoma fimbria
-Pink_salmon,Oncorhynchus gorbuscha
-Chum_salmon,Oncorhynchus keta
-Coho_salmon,Oncorhynchus kisutch
-Sockeye_salmon,Oncorhynchus nerka
-Chinook_salmon,Oncorhynchus tshawytscha
-Atlantic_salmon,Salmo salar
+Pink salmon,Oncorhynchus gorbuscha
+Chum salmon,Oncorhynchus keta
+Coho salmon,Oncorhynchus kisutch
+Sockeye salmon,Oncorhynchus nerka
+Chinook salmon,Oncorhynchus tshawytscha
+Atlantic salmon,Salmo salar
 Salmonberry,Rubus spectabilis
-Common_salsify,Tragopogon porrifolius
+Common salsify,Tragopogon porrifolius
 Sapodilla,Manilkara zapota
-Mamey_sapote,Pouteria sapota
-Spanish_mackerel,Scomberomorus maculatus
-Pacific_sardine,Sardinops sagax
+Mamey sapote,Pouteria sapota
+Spanish mackerel,Scomberomorus maculatus
+Pacific sardine,Sardinops sagax
 Scallop,Pectinidae
 Scup,Stenotomus chrysops
-Sea_cucumber,Parastichopus californicus
-Steller_sea,Eumetopias jubatus
-Bearded_seal,Erignathus barbatus
-Ringed_seal,Pusa hispida
+Sea cucumber,Parastichopus californicus
+Steller sea lion,Eumetopias jubatus
+Bearded seal,Erignathus barbatus
+Ringed seal,Pusa hispida
 Seatrout,Cynoscion
-Sesbania_flower,Sesbania bispinosa
-American_shad,Alosa sapidissima
+Sesbania flower,Sesbania bispinosa
+American shad,Alosa sapidissima
 Shark,Squaliformes
 Sheefish,Stenodus leucichthys
-Sheep_mutton,Ovis aries
+Sheep ,Ovis aries
 Sheepshead,Archosargus probatocephalus
-Hedge_mustard,Sisymbrium
-Skipjack_tuna,Katsuwonus pelamis
+Hedge mustard,Sisymbrium
+Skipjack tuna,Katsuwonus pelamis
 Snapper,Lutjanidae
 Soursop,Annona muricata
 Spelt,Triticum spelta
 Spirulina,Spirulina
 Squab,Columba
 Squirrel,Sciuridae
-Strawberry_guava,Psidium cattleianum
-Greater_sturgeon,Acipenser
-White_sucker,Catostomus commersonii
-Sugar_apple,Annona squamosa
-Pumpkinseed_sunfish,Lepomis gibbosus
+Strawberry guava,Psidium cattleianum
+Greater sturgeon,Acipenser
+White sucker,Catostomus commersonii
+Sugar apple,Annona squamosa
+Pumpkinseed sunfish,Lepomis gibbosus
 Swordfish,Xiphias gladius
 Taro,Colocasia esculenta
 Teff,Eragrostis tef
 Tilefish,Lopholatilus chamaeleonticeps
-Mexican_groundcherry,Physalis philadelphica var. immaculata
-Towel_gourd,Luffa aegyptiaca
-Salmonidae_salmon,Salmonidae
+Mexican groundcherry,Physalis philadelphica var. immaculata
+Towel gourd,Luffa aegyptiaca
+Salmonidae ,Salmonidae
 Turkey,Meleagris gallopavo
-Cattle_beef,Bos taurus
+Cattle ,Bos taurus
 Walleye,Sander vitreus
-Alaska_pollock,Theragra chalcogramma
+Alaska pollock,Theragra chalcogramma
 Wasabi,Wasabia japonica
-Wax_gourd,Benincasa hispida
+Wax gourd,Benincasa hispida
 Whelk,Buccinidae
-Coalfish_pollock,Pollachius virens
-Broad_whitefish,Coregonus nasus
+Coalfish pollock,Pollachius virens
+Broad whitefish,Coregonus nasus
 Whitefish,Coregonus
 Whiting,Merlangius merlangus
-Wild_rice,Zizania
-Tea_leaf,Salix pulchra
-Winged_bean,Psophocarpus tetragonolobus
+Wild rice,Zizania
+Tea leaf willow,Salix pulchra
+Winged bean,Psophocarpus tetragonolobus
 Yam,Dioscorea
 Jicama,Pachyrhizus erosus
 Yautia,Xanthosoma sagittifolium
-Yellowfin_tuna,Thunnus albacares
-Yellowtail_amberjack,Seriola lalandi
+Yellowfin tuna,Thunnus albacares
+Yellowtail amberjack,Seriola lalandi
 Pollock,Pollachius
-Albacore_tuna,Thunnus alalunga
-Gadus_common,Gadus
-Atlantic_halibut,Hippoglossus hippoglossus
-Pacific_halibut,Hippoglossus stenolepis
-Pacific_salmon,Oncorhynchus
+Albacore tuna,Thunnus alalunga
+Gadus ,Gadus
+Atlantic halibut,Hippoglossus hippoglossus
+Pacific halibut,Hippoglossus stenolepis
+Pacific salmon,Oncorhynchus
 Smelt,Osmeridae
-Clupeinae_herring,Clupeinae
-Spiny_lobster,Palinuridae
-Snow_crab,Chionoecetes opilio
-Black-eyed_pea,Vigna unguiculata ssp. unguiculata
+Clupeinae ,Clupeinae
+Spiny lobster,Palinuridae
+Snow crab,Chionoecetes opilio
+Black-eyed pea,Vigna unguiculata ssp. unguiculata
 Deer,Cervidae
-Macadamia_nut,Macadamia
-Percoidei_bass,Percoidei
-Perciformes_perch-like,Perciformes
-Arctic_ground,Urocitellus parryii
+Macadamia nut,Macadamia
+Percoidei ,Percoidei
+Perciformes ,Perciformes
+Arctic ground squirrel,Urocitellus parryii
 Rabbit,Leporidae
-Domestic_goat,Capra aegagrus hircus
+Domestic goat,Capra aegagrus hircus
 Beefalo,Bos taurus X Bison bison
 Antelope,Artiodactyla
-Bivalvia_clam,Bivalvia
+Bivalvia ,Bivalvia
 Squid,Teuthida
 Shrimp,Caridea
 Crayfish,Astacidea
 Flatfish,Pleuronectiformes
-Domestic_pig,Sus scrofa domestica
+Domestic pig ,Sus scrofa domestica
 Walrus,Odobenus rosmarus
-Alaska_wild,Polygonum alpinum
-Oriental_wheat,Triticum turanicum
-Yardlong_bean,Vigna unguiculata ssp. sesquipedalis
-Great_horned,Bubo virginianus
+Alaska wild rhubarb,Polygonum alpinum
+Oriental wheat,Triticum turanicum
+Yardlong bean,Vigna unguiculata ssp. sesquipedalis
+Great horned owl,Bubo virginianus
 Quail,Phasianidae
 Boysenberry,Rubus ursinus X idaeus
-Persian_lime,Citrus latifolia
+Persian lime,Citrus latifolia
 Feijoa,Feijoa sellowiana
 Rowal,Pangium edule
-Jew's_ear,Auricularia auricula-judae
-Common_mushroom,Agaricus bisporus
+Jew's ear,Auricularia auricula-judae
+Common mushroom,Agaricus bisporus
 Shiitake,Lentinus edodes
-Purple_laver,Porphyra laciniata
+Purple laver,Porphyra laciniata
 Wakame,Undaria pinnatifida
 Enokitake,Flammulina velutipes
 Epazote,Dysphania ambrosioides
-Oyster_mushroom,Pleurotus ostreatus
-Cloud_ear,Auricularia polytricha
+Oyster mushroom,Pleurotus ostreatus
+Cloud ear fungus,Auricularia polytricha
 Maitake,Grifola frondosa
-Ostrich_fern,Matteuccia struthiopteris
-Spot_croaker,Leiostomus xanthurus
+Ostrich fern,Matteuccia struthiopteris
+Spot croaker,Leiostomus xanthurus
 Sourdock,Rumex articus
 Tinda,Citrullus lanatus var. fistulosus
-Atlantic_menhaden,Brevoortia tyrannus
+Atlantic menhaden,Brevoortia tyrannus
 Wheat,Triticum
-Common_chokecherry,Prunus virginiana
+Common chokecherry,Prunus virginiana
 Agave,Agave
-Narrowleaf_cattail,Typha angustifolia
+Narrowleaf cattail,Typha angustifolia
 Jellyfish,Scyphozoa
 Anchovy,Engraulidae
-Blue_whiting,Micromesistius poutassou
-Carp_bream,Abramis brama
+Blue whiting,Micromesistius poutassou
+Carp bream,Abramis brama
 Chanterelle,Cantharellus cibarius
 Sturgeon,Acipenseridae
 Charr,Salvelinus
 Cinnamon,Cinnamomum
 Crab,Brachyura
-Common_dab,Limanda limanda
-Spiny_dogfish,Squalus acanthias
-Anatidae_duck,Anatidae
-Anguilliformes_eel,Anguilliformes
-True_frog,Ranidae
+Common dab,Limanda limanda
+Spiny dogfish,Squalus acanthias
+Anatidae ,Anatidae
+Anguilliformes ,Anguilliformes
+True frog,Ranidae
 Garfish,Belone belone
-Gadiformes_cod,Gadiformes
-Mountain_hare,Lepus timidus
-Lake_trout,Salvelinus namaycush
-Lemon_sole,Microstomus kitt
-Clawed_lobster,Nephropidae
+Gadiformes ,Gadiformes
+Mountain hare,Lepus timidus
+Lake trout,Salvelinus namaycush
+Lemon sole,Microstomus kitt
+Clawed lobster,Nephropidae
 Lumpsucker,Cyclopteridae
-Scombridae_bonito,Scombridae
-Marine_mussel,Mytilidae
-Norway_haddock,Sebastes viviparus
-Norway_lobster,Nephrops norvegicus
-Norway_pout,Trisopterus esmarkii
-Oil_palm,Elaeis
-True_oyster,Ostreidae
-Sago_palm,Metroxylon sagu
+Scombridae ,Scombridae
+Marine mussel,Mytilidae
+Norway haddock,Sebastes viviparus
+Norway lobster,Nephrops norvegicus
+Norway pout,Trisopterus esmarkii
+Oil palm,Elaeis
+True oyster,Ostreidae
+Sago palm,Metroxylon sagu
 Persimmon,Diospyros
 Pikeperch,Sander lucioperca
-Pleuronectidae_dab,Pleuronectidae
-Rock_ptarmigan,Lagopus muta
-Pacific_ocean,Sebastes alutus
-Black_salsify,Scorzonera hispanica
-True_seal,Phocidae
-Red_algae,Rhodophyta
+Pleuronectidae ,Pleuronectidae
+Rock ptarmigan,Lagopus muta
+Pacific ocean perch,Sebastes alutus
+Black salsify,Scorzonera hispanica
+True seal,Phocidae
+Red algae,Rhodophyta
 Kombu,Saccharina japonica
 Snail,Gastropoda
-True_sole,Soleidae
+True sole,Soleidae
 Catfish,Siluriformes
 Thistle,Cirsium
-Thunnus_common,Thunnus
+Thunnus ,Thunnus
 Walnut,Juglans
-Cetacea_dolphin,Cetacea
-Columbidae_dove,Columbidae
+Cetacea ,Cetacea
+Columbidae ,Columbidae
 Conch,Strombidae
-Cichlidae_tilapia,Cichlidae
-Green_turtle,Chelonia mydas
-Hibiscus_tea,Hibiscus sabbariffa
-Morchella_morel,Morchellaceae
-Horned_melon,Cucumis metuliferus
-Babassu_palm,Attalea speciosa
-Cupuaã§u,Theobroma grandiflorum
-Shea_tree,Vitellaria paradoxa
-Oil-seed_camellia,Camellia oleifera
+Cichlidae ,Cichlidae
+Green turtle,Chelonia mydas
+Hibiscus tea,Hibiscus sabbariffa
+Morchella ,Morchellaceae
+Horned melon,Cucumis metuliferus
+Babassu palm,Attalea speciosa
+CupuaÃ§u,Theobroma grandiflorum
+Shea tree,Vitellaria paradoxa
+Oil-seed Camellia,Camellia oleifera
 Ucuhuba,Virola surinamensis
 Nance,Byrsonima crassifolia
 Naranjilla,Solanum quitoense
-Tree_fern,Cyathea
-Greenthread_tea,Thelesperma
+Tree fern,Cyathea
+Greenthread tea,Thelesperma
 Ascidians,Ascidiacea
-Yellow_pond-lily,Nuphar lutea
-Pepper_c,Capsicum pubescens
-Soft-necked_garlic,Allium sativum L. var. sativum
+Yellow pond-lily,Nuphar lutea
+Pepper ,Capsicum pubescens
+Soft-necked garlic,Allium sativum L. var. sativum
 Cabbage,Brassica oleracea var. capitata
-Chinese_bayberry,Myrica rubra
-Sunburst_squash,Cucurbita pepo var. clypeata
-Green_zucchini,Cucurbita pepo var. cylindrica
-Yellow_zucchini,Cucurbita pepo var. cylindrica
-Green_bell,Capsicum annuum
-Yellow_bell,Capsicum annuum
-Orange_bell,Capsicum annuum
-Red_bell,Capsicum annuum
-Italian_sweet,Capsicum annuum
-Yellow_wax,Phaseolus vulgaris
-Green_bean,Phaseolus vulgaris
-Saskatoon_berry,Amelanchier alnifolia
-Nanking_cherry,Prunus tomentosa
-Japanese_pumpkin,Cucurbita maxima
-White_cabbage,Brassica oleracea L. var. capitata L. f. alba DC.
-Romaine_lettuce,Lactuca sativa L. var. longifolia
+Chinese bayberry,Myrica rubra
+Sunburst squash ,Cucurbita pepo var. clypeata
+Green zucchini,Cucurbita pepo var. cylindrica
+Yellow zucchini,Cucurbita pepo var. cylindrica
+Green bell pepper,Capsicum annuum
+Yellow bell pepper,Capsicum annuum
+Orange bell pepper,Capsicum annuum
+Red bell pepper,Capsicum annuum
+Italian sweet red pepper,Capsicum annuum
+Yellow wax bean,Phaseolus vulgaris
+Green bean,Phaseolus vulgaris
+Saskatoon berry,Amelanchier alnifolia
+Nanking cherry,Prunus tomentosa
+Japanese pumpkin,Cucurbita maxima
+White cabbage,Brassica oleracea L. var. capitata L. f. alba DC.
+Romaine lettuce,Lactuca sativa L. var. longifolia
